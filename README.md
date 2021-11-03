@@ -1,4 +1,4 @@
-## Opa eu sou o Luís Filipe Dos Santos David
+## Opa, eu sou o Luís Filipe Dos Santos David
 <div align="center">
   <a href="https://github.com/F1LIPE08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F1LIPE08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
